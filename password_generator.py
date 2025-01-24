@@ -1,3 +1,11 @@
+#! python
+########################################################################
+# Author : Greg Nimmo
+# Version : 0.1
+# Description : A very simple password generator.
+#######################################################################
+
+
 import argparse
 import random
 import string
